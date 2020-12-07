@@ -1,4 +1,4 @@
-# 基于github action的京东自动化签到
+# 基于github action的京东自动化签到 ![JD_Sign_Action](https://github.com/QIUZAIYOU/JD_Sign_Action/workflows/JD_Sign_Action/badge.svg)
 
 ## 介绍
 
